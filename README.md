@@ -1,2 +1,5 @@
 # ShinyClock
-A functional clock made with shiny
+Proof of concept of a clock with R.
+https://svalvaro.shinyapps.io/ShinyClock/
+
+
