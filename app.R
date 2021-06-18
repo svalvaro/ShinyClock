@@ -1,7 +1,6 @@
 library(shiny)
 library(tidyverse)
-library(jpeg)
-library(cowplot)
+
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
